@@ -1,0 +1,3 @@
+C:/Users/user/CLionProjects/lab0-19016781-nada ali hassan-graphics/untitled/cmake-build-debug/CMakeFiles/untitled.dir
+C:/Users/user/CLionProjects/lab0-19016781-nada ali hassan-graphics/untitled/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/user/CLionProjects/lab0-19016781-nada ali hassan-graphics/untitled/cmake-build-debug/CMakeFiles/rebuild_cache.dir
